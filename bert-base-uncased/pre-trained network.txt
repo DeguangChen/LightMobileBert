@@ -1,0 +1,1 @@
+The pre-trained network includes config.json, pytorch_model and vocab.txt.
