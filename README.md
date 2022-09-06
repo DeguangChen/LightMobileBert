@@ -10,7 +10,7 @@ Convert the checkpoints in tensorflow to the checkpoints in pytorch.<br>
 
 
 ## Finetune with LightMobileBert
-* run run_glue.py
+* run run_glue.py (Because of the mobilebert checkpoints only have TF type).
 
 ## requirements
 torch = 1.1.0 to 1.10.0<br>
