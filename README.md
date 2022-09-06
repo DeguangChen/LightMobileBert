@@ -10,3 +10,7 @@ Convert the checkpoints in tensorflow to the checkpoints in pytorch.<br>
 
 
 ## Finetune with LightMobileBert
+* run run_glue.py
+
+## requirements
+
