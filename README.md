@@ -13,4 +13,7 @@ Convert the checkpoints in tensorflow to the checkpoints in pytorch.<br>
 * run run_glue.py
 
 ## requirements
+torch = 1.1.0 to 1.10.0<br>
+transformers = 3.4.0
+
 
